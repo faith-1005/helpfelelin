@@ -1,0 +1,40 @@
+#friend{
+
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+
+}
+
+body{
+
+    background-size: cover;
+
+}
+
+#fab, #famous, #fiend{
+
+    font-size: 18px;
+
+}
+
+.flawless{
+
+    position: fixed;
+    color: #EECF6D;
+    background-color: #352208;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+
+}
+
+canvas{
+
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px #DE6E4B;
+
+}
